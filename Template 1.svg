@@ -8,7 +8,7 @@
 <rect x="445" y="83" width="812" height="215" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
 <rect x="13" y="83" width="410" height="74" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
 <rect x="13" y="179" width="410" height="215" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
-<rect x="440" y="320" width="817" height="382" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
+<rect x="445" y="320" width="812" height="382" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
 <rect x="13" y="416" width="410" height="286" rx="9" fill="white" stroke="#0078D4" stroke-width="2"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
